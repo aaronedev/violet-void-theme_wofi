@@ -1,0 +1,66 @@
+@define-color base00 #282828;
+@define-color base01 #3C3836;
+@define-color base02 #504945;
+@define-color base03 #665C54;
+@define-color base04 #BDAE93;
+@define-color base06 #D5C4A1;
+@define-color base06 #EBDBB2;
+@define-color base07 #FBF1C7;
+@define-color base08 #FB4934;
+@define-color base09 #FE8019;
+@define-color base0A #FABD2F;
+@define-color base0B #B8BB26;
+@define-color base0C #8EC07C;
+@define-color base0D #83A598;
+@define-color base0E #D3869B;
+@define-color base0F #D65D0E;
+
+@define-color background rgba(16, 11, 18, 0.69);
+@define-color background3: rgba(50, 50, 50, 0.9);
+@define-color background2 rgba(28, 17, 28, 0.80);
+@define-color black #020003;
+@define-color black-alt#240035;
+@define-color red #F26666;
+@define-color greyish #7A659A;
+@define-color blue-light #C1A6FF;
+@define-color blue-dir #4C5DD2;
+@define-color purple-blue #8063B0;
+@define-color blue #6080D1;
+@define-color white #E8D5E8;
+
+@define-color bright0 #7C6F98;
+@define-color bright1 #EB5A5A;
+@define-color bright2 #A884FF;
+@define-color bright3 #C1A6FF;
+@define-color bright4 #8F8FFF;
+@define-color bright5 #BCADFF;
+@define-color bright6 #6069D1;
+@define-color bright7 #dbfdff;
+@define-color green1 #82e77d;
+
+@define-color selection_foreground #E8D5E8;
+@define-color selection_background #3A2A56;
+@define-color b3 rgba(36, 32, 43, 0.63);
+@define-color b4 rgba(22, 22, 33, 0.33);
+@define-color b5 rgba(128, 99, 176, 0.1);
+
+@define-color secondary-background rgba(30, 25, 40, 0.80);
+@define-color accent-dark rgba(80, 60, 120, 0.1);
+@define-color accent-light rgba(200, 180, 255, 0.1);
+@define-color soft-purple rgba(110, 90, 150, 0.1);
+@define-color deep-purple rgba(70, 55, 100, 0.1);
+@define-color pastel-blue rgba(170, 160, 255, 0.1);
+@define-color overlay-purple rgba(80, 60, 100, 0.5);
+@define-color hover-background rgba(50, 40, 70, 0.7);
+@define-color subtle-grey rgba(100, 90, 120, 0.8);
+@define-color border-color rgba(60, 55, 80, 0.1);
+
+@define-color void rgba(0.1, 0, 2, 0.1);
+@define-color abyss rgba(2, 0.1, 3, 0.1);
+@define-color onyx rgba(3, 0, 4, 0.1);
+@define-color midnight rgba(2, 0, 6, 0.1);
+@define-color ebony rgba(5, 0, 7, 0.1);
+@define-color raven rgba(2, 0, 2, 0.1);
+@define-color shadow rgba(4, 0.1, 5, 0.1);
+@define-color graphite rgba(6, 2, 8, 0.1);
+@define-color charcoal rgba(8, 3, 10, 0.1);
