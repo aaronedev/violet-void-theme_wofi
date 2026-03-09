@@ -15,3 +15,7 @@ cp violet-void-theme.css ~/.config/wofi/themes/
 ## License
 
 MIT
+
+---
+
+Part of the [Violet Void Theme Monorepo](https://github.com/aaronedev/violet-void-monorepo).
